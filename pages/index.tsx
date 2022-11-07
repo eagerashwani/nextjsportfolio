@@ -49,7 +49,7 @@ export default function Home() {
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
-            <AiFillTwitterCircle className="dark:text-slate-100" />
+            <AiFillTwitterCircle className="dark:text-slate-100" onClick={'https://twitter.com/eagerashwani'} />
             <AiFillLinkedin className="dark:text-slate-100" />
             <AiFillYoutube className="dark:text-slate-100" />
           </div>
